@@ -1,2 +1,4 @@
 # resumo-do-laborat-rio-benefio-da-nuvem
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do laboratório na DIO sobre benefícios da nuvem.
+
+Aprendi que a computação em nuvem traz benefícios essenciais para empresas e usuários. A alta disponibilidade garante serviços acessíveis mesmo em falhas, enquanto a escalabilidade e a elasticidade permitem ajustar recursos de forma dinâmica conforme a demanda, evitando desperdícios. Também compreendi que a confiabilidade é possível graças ao design distribuído globalmente, e que a previsibilidade facilita o planejamento de custos e desempenho. Vi que a segurança é um ponto forte, mas com responsabilidade compartilhada entre provedor e cliente, e que a governança assegura conformidade e controle. Por fim, entendi que a gerenciabilidade permite administrar a nuvem com automação e ferramentas como portal web, linha de comando e APIs, tornando a gestão mais simples e eficiente.
